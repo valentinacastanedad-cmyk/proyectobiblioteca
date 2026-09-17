@@ -29,7 +29,7 @@ public Producto buscarPorCodigo(int codigo) throws ProductoNoEncontradoException
         }
     }
 
-    throw new ProductoNoEncontradoException("producto no encontrado");
+    throw new ProductoNoEncontradoException("No se encontro un producto con ese codigo");
 
    }
 

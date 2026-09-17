@@ -8,6 +8,7 @@ public class Main {
 
         do {
             System.out.println("SISTEMA DE INVENTARIO");
+            System.out.println("Gestion de productos de la biblioteca");
             System.out.println("1. Registrar producto");
             System.out.println("2. Mostrar productos");
             System.out.println("3. Buscar producto");

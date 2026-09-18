@@ -12,7 +12,6 @@ public class Producto {
     this.cantidad = cantidad;
 }
 
-
 public int getCodigo() {
     return codigo;
 }
@@ -28,7 +27,6 @@ public double getPrecio() {
 public int getCantidad() {
     return cantidad;
 }
-
 
 public void setCodigo(int codigo) {
     this.codigo = codigo;

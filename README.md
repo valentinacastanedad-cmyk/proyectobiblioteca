@@ -40,3 +40,16 @@ java Main
 - ArrayList
 - Arreglos
 - Manejo de excepciones
+
+## PROYECTO ACADÉMICO
+
+Proyecto desarrollado como actividad académica de Programación Orientada a Objetos.
+
+## CONCEPTOS DE POO APLICADOS
+
+- Clases y objetos: se utilizan las clases Producto e Inventario y se crean objetos Producto.
+- Encapsulamiento: los atributos de Producto son privados y se accede a ellos mediante getters y setters.
+- Constructor: la clase Producto utiliza un constructor para inicializar sus atributos.
+- Relación entre clases: Inventario contiene una lista de objetos Producto.
+- Abstracción: cada clase representa una parte específica del sistema.
+- Manejo de excepciones: se utiliza try-catch y una excepción personalizada.

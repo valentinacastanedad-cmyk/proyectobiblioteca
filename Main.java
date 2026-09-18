@@ -18,7 +18,7 @@ public class Main {
             try {
                 opcion = Integer.parseInt(scanner.nextLine());
             } catch (NumberFormatException e) {
-                System.out.println("Opcion no validad");
+                System.out.println("Opcion no valida");
                 opcion = 0;
             }
             switch (opcion) {

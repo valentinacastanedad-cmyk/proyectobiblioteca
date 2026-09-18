@@ -10,7 +10,11 @@ public class Inventario {
     }
 
 public void mostrarTodos() {
-    System.out.println("Categorias disponibles: " + String.join(", ", categorias));
+    System.out.println("Categorias disponibles:");
+
+for (String categoria : categorias) {
+    System.out.println("- " + categoria);
+}
     
     double valorTotal = 0;
 
